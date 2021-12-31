@@ -1,5 +1,4 @@
-# 
-WHAT IS THE PURPOSE OF THIS PROJECT?
+# WHAT IS THE PURPOSE OF THIS PROJECT?
 
 AdventureWorks2019 is a Microsoft sample database that allowed me to write SQL queries and utilize them to develop dashboards with two BI tools: Tableau and PowerBI. Each was used to create a portfolio that could showcase what I had learnt over time.
 
